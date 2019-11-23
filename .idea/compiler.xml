@@ -11,6 +11,7 @@
         <module name="gmall-oms" />
         <module name="gmall-common" />
         <module name="gmall-pms" />
+        <module name="gmall-mbg" />
         <module name="gmall-api" />
         <module name="gmall-sms" />
       </profile>
